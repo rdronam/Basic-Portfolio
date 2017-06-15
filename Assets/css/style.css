@@ -1,0 +1,38 @@
+header{
+	background-color: #4aaaa5;
+	font-color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	padding: 20px;
+	color: white;
+}
+
+body {
+
+	border-bottom: 3px;
+	background-image: url(http://graphicdesignjunction.com/wp-content/uploads/2012/08/minimal-background-pattern-wordpress-12.jpg);
+
+}
+
+#full{
+	background-color: white;
+	width: 40%;
+	height: 100%;
+	margin-left: 75px;
+	
+}
+
+
+footer{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #666666;
+  text-align: center;
+  border-top-style: solid;
+  border-top-width: 10px;
+  border-top-color:#4aaaa5;
+}
+
